@@ -80,7 +80,7 @@ BloodImage_00366,21,test
 Buka file `test_rbc_2.py` (dan `tuning.py` jika digunakan), pastikan variabel `BASE` atau `TEST_IMG_FOLDER` sudah mengarah ke folder direktori tempat citra `.jpg` Anda disimpan:
 
 ```
-BASE = r"D:\Tugas Kuliah Semester 5\Computer Vision\CBCount-Datasets-master"
+BASE = path file
 TEST_IMG_FOLDER = os.path.join(BASE, "Testing", "Images")
 CSV_PATH = "Data Latih Blood Cell.csv"
 
